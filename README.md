@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saishankar-vemuganti
-- 💻 I'm SDE Intern at [Zemoso Technologies](https://www.zemosolabs.com/)
+- 💻 I'm Associate Software Engineer at [Zemoso Technologies](https://www.zemosolabs.com/)
 - 👀 I’m interested in Developing applications.
 - 🌱 I’m currently learning Full Stack Development 
 - 📫 How to reach me saishankarvemu@gmail.com
